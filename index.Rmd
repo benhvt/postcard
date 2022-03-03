@@ -1,0 +1,30 @@
+---
+title: "Benjamin Hivert"
+image: "photo.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/benjamin-hivert-55a532187/"
+  - label: GitHub
+    url: "https://github.com/benhvt"
+  - label: Email
+    url: "mailto:benjamin.hivert@u-bordeaux.fr"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Doctorant en Biostatistique à l'Université de Bordeaux 
+
+## Education
+
+**Université de Bordeaux** | Bordeaux, France
+
+Master Mathématiques Appliquées, Statistiques parcours Modélisation Statistiques et Stochastiques | Septembre 2018 - Juin 2020
+
+**Université de Bordeaux** | Bordeaux, France
+
+Licence de Mathématiques Fondalementales| Septembre 2015 - Juin 2018
+
+## Experience
+
